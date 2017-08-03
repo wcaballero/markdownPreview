@@ -1,3 +1,8 @@
-
+.App {
+  margin-top: 1%; }
+  .App textarea {
+    height: 50vh;
+    border-radius: 5px;
+    margin-bottom: 4%; }
 
 /*# sourceMappingURL=App.css.map */
