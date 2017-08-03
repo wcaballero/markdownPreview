@@ -1,0 +1,20 @@
+{
+  "name": "markdown-previewer",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://wcaballero.github.io/markdownPreviewer",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-scripts": "1.0.10"
+  },
+  "scripts": {
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "sass": "sass --watch src/styles/scss:src/styles/css"
+  }
+}

@@ -1,0 +1,5 @@
+// run sass on create-react-app: https://hackernoon.com/using-sass-with-create-react-app-without-ejecting-b5f4f827ed9e
+// houses all of the style files so we only have to import it once in index.js
+
+@import 'App';
+@import 'Body';
