@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://wcaballero.github.io/markdownPreviewer",
   "dependencies": {
+    "marked": "^0.3.6",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-scripts": "1.0.10"
